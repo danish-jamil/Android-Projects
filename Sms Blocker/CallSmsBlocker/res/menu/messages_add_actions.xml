@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/addContact"
+        android:title="Contact" />
+    <item
+        android:id="@+id/addManual"
+        android:title="Manual" />
+    <item 
+        android:id="@+id/addInbox"
+        android:title="Inbox" />
+    <item 
+        android:id="@+id/addDefault"
+        android:title="Import Default" />"
+</menu>

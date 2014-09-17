@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="Messages" >
+         <CheckBoxPreference
+	        android:key="sms_block_enabled"
+	        android:summaryOn="On"
+	        android:summaryOff="Off"
+	        android:title="Block Messages" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="Calls" >
+        <CheckBoxPreference
+            android:key="call_block_enabled"
+            android:summaryOn="On"
+            android:summaryOff="Off"
+            android:title="Block Calls" />
+    </PreferenceCategory>
+   
+
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/moveFromInbox"
+        android:title="Move from Inbox" />
+	<item android:id="@+id/restoreAll"
+        android:title="Restore all Messages" />
+</menu>

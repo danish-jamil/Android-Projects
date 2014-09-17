@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Call/Sms Blocker</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_message">Blocked Messages</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name="warid_spam_list">
+        <item>786</item>
+        <item>80010</item>
+        <item>Warid</item>
+        <item>FlareMag</item>
+        <item>4343</item>
+        <item>7060</item>
+        <item>6446</item>
+        <item>3000</item>
+        <item>6262</item>
+        <item>LA-ATRIUM</item>
+        <item>ChenOne</item>
+        <item>6767</item>
+        <item>5679</item>
+        <item>7171</item>
+        <item>7777</item>
+        <item>10000</item>
+    </string-array>
+    <string-array name="ufone_spam_list">
+        <item>4816</item>
+        <item>6786</item>
+        <item>5005</item>
+        <item>4466</item>
+        <item>3600</item>
+        <item>6677</item>
+        <item>5599</item>
+        <item>6633</item>
+        <item>6688</item>
+        <item>2386</item>
+        <item>5757</item>
+        <item>9906</item>
+        <item>990</item>
+        <item>888</item>
+        <item>6363</item>
+        <item>7700</item>
+        <item>786</item>
+        <item>6777</item>
+    </string-array>
+
+    <string name="title_activity_inbox">InboxActivity</string>
+
+</resources>

@@ -1,0 +1,7 @@
+{
+	"com.badlogic.gdx.scenes.scene2d.ui.Dialog":{
+		"default":{
+			"background": "data/window-stage-bg.png"
+		}
+	}
+}
